@@ -1,1 +1,1 @@
-Practicing OOP techniques
+Practicing OOP techniques. Inheritence and such.
